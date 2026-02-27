@@ -58,14 +58,6 @@ The design focuses on:
 
 ---
 
-## 📂 Files Included
-
-- UI Screens (PNG)
-- Exported PDF
-- Figma Prototype Link
-
----
-
 ## 🔗 Figma Prototype
 
-(Add your Figma share link here)
+https://www.figma.com/proto/mTQeUxCk0M6V20sWV4zoIx/Ecommerce-Product-Page?node-id=0-1&t=A1lBtE4WAm9CZhMO-1
